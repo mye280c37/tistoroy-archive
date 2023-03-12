@@ -9,3 +9,48 @@
 .conclusion h2 {
 	margin: 5px 0 20px !important;
 }
+
+.aside {
+    padding: 15px;
+    background-color: rgba(207, 207, 207, 0.8);
+    color: white !important;
+    border-radius: 10px;
+	margin: 10px 0;
+}
+
+.aside .title {
+    font-size: 1.0009em;
+}
+
+.aside .contents {
+	padding: 10px 10px 0 20px;
+}
+
+.text-emphasis {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.yellow-highlight-background {
+    background-color: rgba(251, 243, 219, 1);
+}
+
+.blue-highlight {
+    color: rgba(51, 126, 169, 1);
+    fill: rgba(51, 126, 169, 1);
+}
+
+.blue-highlight-background {
+    background: rgba(231, 243, 248, 1)
+}
+
+.red-highlight {
+    color: rgba(212, 76, 71, 1);
+    fill: rgba(212, 76, 71, 1);
+}
+
+.grey-highlight {
+    font-style: italic;
+    color: rgba(120, 119, 116, 1);
+    fill: rgba(120, 119, 116, 1);
+}
